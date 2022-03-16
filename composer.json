@@ -1,0 +1,12 @@
+{
+    "name": "adsign/useful-tools",
+    "description": "This is Description of Package Usefull Tools",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "UsefulTools\\": "src/"
+        }
+    }
+}
